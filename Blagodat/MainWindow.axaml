@@ -6,11 +6,17 @@
         x:Class="Blagodat.MainWindow"
         Width="400" 
         Height="250"
+		x:CompileBindings="False"
         Title="Blagodat">
-    <StackPanel>
-        <TextBlock FontSize="27" Margin="0,20,0,0" HorizontalAlignment="Center">Вход в систему</TextBlock>
-        <TextBox Name="login" Margin="10,30,0,0" Width="200" Watermark="Логин"></TextBox>
-        <TextBox Name="password" Margin="10,10,0,0" Width="200" Watermark="Пароль"></TextBox>
-        <Button Click="Button_OnClick" Margin="0,10,0,0" HorizontalAlignment="Center">Войти</Button>
-    </StackPanel>
+	<StackPanel>
+		<TextBlock FontSize="27" Margin="0,20,0,0" HorizontalAlignment="Center">Вход в систему</TextBlock>
+		<TextBox Name="login" Margin="10,30,0,0" Width="200" Watermark="Логин"/>
+
+		<StackPanel Orientation="Horizontal">
+			<TextBox Name="password" Margin="104,10,0,0" Width="200" Watermark="Пароль" PasswordChar="●"/>
+			<Button Click="Button_ClickVisible" Margin="10,10,0,0" Height="30">Увидеть</Button>
+		</StackPanel>
+		<TextBlock Name="WarningText" Margin="0,10,0,0" FontSize="14" Foreground="Red" HorizontalAlignment="Center" IsVisible="False"/>
+		<Button Click="Button_OnClick" Margin="0,10,0,0" HorizontalAlignment="Center">Войти</Button>
+	</StackPanel>
 </Window>

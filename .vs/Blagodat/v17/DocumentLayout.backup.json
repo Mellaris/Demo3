@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\personaly.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\personaly.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\personaly.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\personaly.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\neworder.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\neworder.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\neworder.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\neworder.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\blagodat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\blagodat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\watchhistory.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\watchhistory.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\watchhistory.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\watchhistory.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\staticclassforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\staticclassforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|c:\\users\\notebook\\desktop\\project\\demo3\\blagodat\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61482-4472-4FB6-A0D3-8AE01372EF30}|Blagodat\\Blagodat.csproj|solutionrelative:blagodat\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewOrder.axaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\NewOrder.axaml",
+              "RelativeDocumentMoniker": "Blagodat\\NewOrder.axaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\NewOrder.axaml",
+              "RelativeToolTip": "Blagodat\\NewOrder.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T20:36:48.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blagodat",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Blagodat.csproj",
+              "RelativeDocumentMoniker": "Blagodat\\Blagodat.csproj",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Blagodat.csproj",
+              "RelativeToolTip": "Blagodat\\Blagodat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T20:35:24.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WatchHistory.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\WatchHistory.axaml.cs",
+              "RelativeDocumentMoniker": "Blagodat\\WatchHistory.axaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\WatchHistory.axaml.cs",
+              "RelativeToolTip": "Blagodat\\WatchHistory.axaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:49:26.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaly.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Personaly.axaml.cs",
+              "RelativeDocumentMoniker": "Blagodat\\Personaly.axaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Personaly.axaml.cs",
+              "RelativeToolTip": "Blagodat\\Personaly.axaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:13:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticClassForList.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\StaticClassForList.cs",
+              "RelativeDocumentMoniker": "Blagodat\\StaticClassForList.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\StaticClassForList.cs",
+              "RelativeToolTip": "Blagodat\\StaticClassForList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:46:19.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Blagodat\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\MainWindow.axaml",
+              "RelativeToolTip": "Blagodat\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:24:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Blagodat\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Blagodat\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:24:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personaly.axaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Personaly.axaml",
+              "RelativeDocumentMoniker": "Blagodat\\Personaly.axaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Personaly.axaml",
+              "RelativeToolTip": "Blagodat\\Personaly.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T17:04:52.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewOrder.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\NewOrder.axaml.cs",
+              "RelativeDocumentMoniker": "Blagodat\\NewOrder.axaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\NewOrder.axaml.cs",
+              "RelativeToolTip": "Blagodat\\NewOrder.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:36:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WatchHistory.axaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\WatchHistory.axaml",
+              "RelativeDocumentMoniker": "Blagodat\\WatchHistory.axaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\WatchHistory.axaml",
+              "RelativeToolTip": "Blagodat\\WatchHistory.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T18:49:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Blagodat\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Models\\Employee.cs",
+              "RelativeToolTip": "Blagodat\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:48:31.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Program.cs",
+              "RelativeDocumentMoniker": "Blagodat\\Program.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Program.cs",
+              "RelativeToolTip": "Blagodat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:21:51.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Models\\Connection.cs",
+              "RelativeDocumentMoniker": "Blagodat\\Models\\Connection.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\project\\Demo3\\Blagodat\\Models\\Connection.cs",
+              "RelativeToolTip": "Blagodat\\Models\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:17:58.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
