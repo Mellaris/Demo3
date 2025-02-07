@@ -38,9 +38,9 @@ public partial class WatchHistory : Window
 
         List<ConnectionHistoryItem> sortedList;
 
-        if (selectedText == "По возрастанию")
+        if (selectedText == "РџРѕ РІРѕР·СЂР°СЃС‚Р°РЅРёСЋ")
         {
-            // Сортировка по возрастанию
+            // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
             sortedList = StaticClassForList.listConnection
                 .OrderBy(connect => connect.Dataconnection)
                 .Select(connect => new ConnectionHistoryItem
@@ -50,9 +50,9 @@ public partial class WatchHistory : Window
                     ConnectionDate = connect.Dataconnection
                 }).ToList();
         }
-        else if (selectedText == "По убыванию")
+        else if (selectedText == "РџРѕ СѓР±С‹РІР°РЅРёСЋ")
         {
-            // Сортировка по убыванию
+            // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
             sortedList = StaticClassForList.listConnection
                 .OrderByDescending(connect => connect.Dataconnection)
                 .Select(connect => new ConnectionHistoryItem
@@ -73,7 +73,7 @@ public partial class WatchHistory : Window
                 }).ToList();
         }
 
-        // Обновляем ListBox с отсортированными данными
+        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ ListBox пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
         ListEnter.ItemsSource = sortedList;
     }
 

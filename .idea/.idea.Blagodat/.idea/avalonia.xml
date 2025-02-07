@@ -4,7 +4,9 @@
     <option name="projectPerEditor">
       <map>
         <entry key="Blagodat/MainWindow.axaml" value="Blagodat/Blagodat.csproj" />
+        <entry key="Blagodat/NewOrder.axaml" value="Blagodat/Blagodat.csproj" />
         <entry key="Blagodat/Personaly.axaml" value="Blagodat/Blagodat.csproj" />
+        <entry key="Blagodat/WatchHistory.axaml" value="Blagodat/Blagodat.csproj" />
       </map>
     </option>
   </component>

@@ -6,6 +6,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Timers;
+using Avalonia.Interactivity;
 using Blagodat.Models;
 
 namespace Blagodat;
@@ -13,7 +14,7 @@ namespace Blagodat;
 public partial class Personaly : Window
 {
     private Timer _sessionTimer;
-    private TimeSpan _remainingTime = TimeSpan.FromMinutes(20);
+    private TimeSpan _remainingTime = TimeSpan.FromMinutes(2);
     private bool _warningShown = false;
     public Personaly()
     {
@@ -28,7 +29,7 @@ public partial class Personaly : Window
                 {
                     loginName.Text = a.Firstname;
                     loginLastName.Text = a.Lastname;
-                    loginRol.Text = "Пользователь";
+                    loginRol.Text = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
                 }
             }
         }
@@ -42,15 +43,15 @@ public partial class Personaly : Window
                     loginLastName.Text = b.Lastname;
 
                     var job = StaticClassForList.listJob.FirstOrDefault(j => j.Id == b.Idjob);
-                    loginRol.Text = job != null ? job.Name : "Неизвестная должность";
+                    loginRol.Text = job != null ? job.Name : "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
                 }
             }
         }
-        if(loginRol.Text == "Администратор")
+        if(loginRol.Text == "РђРґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ")
         {
             history.IsVisible = true;
         }
-        if(loginRol.Text == "Продавец" || loginRol.Text == "Старший смены")
+        if(loginRol.Text == "РџСЂРѕРґР°РІРµС†" || loginRol.Text == "РЎС‚Р°СЂС€РёР№ СЃРјРµРЅС‹")
         {
             order.IsVisible = true;
         }
@@ -72,12 +73,12 @@ public partial class Personaly : Window
 
         Dispatcher.UIThread.Invoke(() =>
         {
-            SessionTimerText.Text = $"Оставшееся время: {_remainingTime.Minutes:D2}:{_remainingTime.Seconds:D2}";
+            SessionTimerText.Text = $"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ: {_remainingTime.Minutes:D2}:{_remainingTime.Seconds:D2}";
             
             if (_remainingTime.TotalMinutes < 1 && !_warningShown)
             {
                 _warningShown = true;
-                WarningText.Text = "До окончания сеанса осталась 1 минута!";
+                WarningText.Text = "пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 1 пїЅпїЅпїЅпїЅпїЅпїЅ!";
                 WarningText.IsVisible = true;
             }
 
@@ -91,7 +92,7 @@ public partial class Personaly : Window
     private async void EndSession()
     {
         _sessionTimer.Stop();
-        WarningText.Text = "Время сеанса истекло! Вход заблокирован на 1 минуту.";
+        WarningText.Text = "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ! пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ 1 пїЅпїЅпїЅпїЅпїЅпїЅ.";
 
         StaticClassForList.IsLoginBlocked = true;
 
@@ -149,5 +150,11 @@ public partial class Personaly : Window
             Id = job.Id,
             Name = job.Name,
         }).ToList();
-    }  
+    }
+
+    private void Order_OnClick(object? sender, RoutedEventArgs e)
+    {
+        new NewOrder().Show(); 
+        Close();
+    }
 }
